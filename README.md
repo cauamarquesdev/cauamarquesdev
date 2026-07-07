@@ -1,4 +1,4 @@
-## Oii Eu sou o Cauã Marques, desenvolvedor Full Stack !
+## Olá Eu sou o Cauã Marques, desenvolvedor Full Stack !
 
 
 <p align="center">Estudante autônamo de Sistemas. Atualmente trabalho com JavaScript, HTML, CSS, Node e estudo Java paralelamente.

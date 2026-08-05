@@ -1,7 +1,7 @@
 ## Olá Eu sou o Cauã Marques, desenvolvedor Full Stack !
 
 
-<p align="center">Estudante autônamo de Sistemas. Atualmente trabalho com JavaScript, HTML, CSS, Node e estudo Java paralelamente.
+<p align="center">Estudante autônamo de Sistemas. Atualmente trabalho com JavaScript, React, TypeScript, Supabase, MySql , Node.js e estudo Java paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
